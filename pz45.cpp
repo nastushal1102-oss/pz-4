@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    // Рядок для тесту для варіанта 7
+
     string text = "stats"; 
 
     stack<char> charStack;
