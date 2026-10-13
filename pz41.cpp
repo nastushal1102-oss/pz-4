@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    // Створюємо стек та додаємо три рядки варіанта 7
+   
     stack<string> words;
     words.push("onion");
     words.push("garlic");
