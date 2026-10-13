@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     stack<int> numbers;
-    // Додаємо 5 чисел варіанта 7
+  
     numbers.push(11);
     numbers.push(22);
     numbers.push(33);
